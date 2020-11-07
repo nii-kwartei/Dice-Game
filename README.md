@@ -8,3 +8,5 @@ To play the game, when the page is refreshed, then the dice is thrown randomly s
 Then the website will announce the winner depending on whose dice value was higher.
 
 And You can use this website to settle all your family disputes by just logging in to figure out who won😅. 
+
+![](images/dice.png)
